@@ -62,67 +62,32 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I am a Computer Systems Engineering student. I am a person who likes to experiment with new things and challenges. I am fascinated by applications or technological tools. I like video games, especially shooting games. I like to live with people. I consider myself creative and self-taught to solve problems, algorithms regarding codes or dynamic projects.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Computerstystems engineer
+    university: Technological Institute of Colima
+    time: 2020 Sep - current
     details: |
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+  - degree: Programmer Analyst Technician
+    university: Colima University
+    time: 2017 - 2020
     details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Student
+    time: 2017 - Present
+    company: School
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Projects with different types of tools 
+      and languages (c, c#, php, mysql, html and css).
+      Work with database, android Studio
+        - Calculator
+        - Web page
+        - DataBase
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -134,20 +99,20 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
+    - name: Ruby
       level: 40%
 
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
+    - name: HTML
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: Java
+      level: 60%
+
+    - name: CSS
+      level: 80%
+
+    - name: JavaScript
+      level: 20%
 
     - name: C/C++
       level: 40%
